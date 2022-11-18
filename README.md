@@ -10,7 +10,7 @@ Cyberbullying Detection on Social Media Networks using Machine Learning and Deep
 -----------------------------
 for more info and help:
 -----------------------------
-joynuljoynulzubair1@gmail.com 
+joynulzubair@portcity.edu.bd
 -----------------------------
 minahidkaisar@gmail.com
 -----------------------------
